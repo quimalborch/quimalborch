@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=quimalborch&show_icons=true&theme=radical
+![Stadistics](https://github-readme-stats.vercel.app/api?username=quimalborch&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on http://call-houston.com/
 - 🌱 I’m currently learning Front-End Engineer
