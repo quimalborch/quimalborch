@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on http://call-houston.com/
+- 🌱 I’m currently learning Front-End Engineer
+- 📫 How to reach me: @quimalborch 🐦
 <!--
 **quimalborch/quimalborch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
