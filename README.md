@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 - 🔭 I’m currently working on http://call-houston.com/
 - 🌱 I’m currently learning Front-End Engineer
 - 📫 How to reach me: @quimalborch 🐦
