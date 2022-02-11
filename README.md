@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quimalborch&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quimalborch)](https://github.com/quimalborch/github-readme-stats)
 
 - 🔭 I’m currently working on http://call-houston.com/
 - 🌱 I’m currently learning Front-End Engineer
