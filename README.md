@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://ubscode.com<br>🌱 I’m currently learning Front-End Engineer<br>📫 How to reach me: @quimalborch 🐦
+🔭 I’m currently working on https://ubscode.com<br>📫 How to reach me: @quimalborch 🐦
 
 
 ## 🌐 Socials:
